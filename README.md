@@ -1,4 +1,8 @@
-## Adding Firebase JavaScript SDK in my web app-
+
+<img align="left" src="https://user-images.githubusercontent.com/72359805/231846346-e31e5690-df78-49f8-9bd6-6da5c58e0084.png" width="80">
+
+<h1>Adding Firebase JavaScript SDK in my web app:</h1> 
+
 
 ### Step 1: Create a Firebase project and register your app
 ### Step 2: Install the SDK and initialize Firebase
